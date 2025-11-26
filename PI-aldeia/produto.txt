@@ -1,0 +1,17 @@
+ID_Produto,Nome_do_Produto,Categoria,Valor_Unitario
+101,Refeição Inteira,Refeição,69.90
+102,Refeição Meia,Refeição,34.95
+103,Aniversariante,Refeição,55.92
+104,Bariátrico,Refeição,55.92
+201,Coca-Cola,Refrigerante,7.00
+202,Guaraná Antarctica,Refrigerante,7.00
+203,Fanta Laranja,Refrigerante,7.00
+204,H2O Limoneto,Refrigerante,9.00
+301,Água sem Gás,Água,5.00
+302,Água com Gás,Água,6.00
+401,Brahma,Cerveja,14.00
+402,Original,Cerveja,16.00
+403,Heineken,Cerveja,18.00
+501,Doce de Leite,Doce,29.90
+502,Doce de Abóbora,Doce,27.00
+503,Doce de Cocada,Doce,32.90
